@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional coverage directory
+coverage/
+
+# Optional error logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Optional build directories
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+.DS_Store
